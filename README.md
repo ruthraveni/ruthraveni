@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthraveni M</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;AI+%26+ML+Enthusiast;Problem+Solver&center=true&width=500&height=50">
@@ -9,19 +9,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering  
-🏫 Karpagam College of Engineering
+🎓 Final Year Computer Science Engineering Student
 
-💡 Passionate about
-- Full Stack Development
-- Java
-- AI & Machine Learning
-- Problem Solving
+💻 Passionate about building Full Stack Applications
 
-🌱 Currently Learning
-- Spring Boot
-- System Design
-- Data Structures & Algorithms
+☕ Strong in C++, Java, React,MySQL
+
+🤖 Interested in AI & Machine Learning
+
+🌱 Currently learning Spring Boot and System Design
+
+
 
 ---
 
@@ -55,36 +53,69 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 CareerPilot-AI
+### 🤖 CareerPilot-AI
+
 AI-powered Placement Preparation Platform
 
-✔ Resume Analyzer
-✔ Mock Interview
-✔ AI Career Mentor
-✔ Company Preparation
+✨ Features
+
+- Resume ATS Analyzer
+- AI Mock Interview
+- AI Career Mentor
+- Company Preparation
+- Dashboard
+
+Tech Stack:
+React • FastAPI • MongoDB • Python
 
 ---
+### ❤️ Smart Donation Platform
 
+A full-stack donation management platform that connects donors with verified charities and NGOs.
+
+✨ Features
+
+- Secure Donor & Admin Authentication
+- Browse and Search Donation Campaigns
+- Online Donation Workflow
+- Donation History & PDF Receipt Generation
+- Admin Dashboard for Campaign Management
+
+**Tech Stack:** React • Spring Boot • MySQL • MongoDB • Razorpay
+
+---
 ### 🗳 Online Voting System
 
-MERN Stack Application
+A secure MERN Stack web application for conducting online elections.
 
-✔ Authentication
-✔ Secure Voting
-✔ Admin Dashboard
+✨ Features
+
+- Secure User Authentication
+- Online Voting with One Vote per User
+- Real-time Vote Counting
+- Admin Dashboard
+- Election & Candidate Management
+
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
 ---
 
 ### 💼 Portfolio
 
-Personal Portfolio Website
+A modern personal portfolio website showcasing my projects, skills, certifications, and achievements.
 
-React + Tailwind CSS + Framer Motion
+✨ Features
 
+- Responsive Design
+- Interactive UI with Framer Motion
+- Project Showcase
+- Skills & Certifications
+- Contact Section
+
+**Tech Stack:** React • Tailwind CSS • Vite
 ---
 
 
----
 
 ## 🏆 Achievements
 
