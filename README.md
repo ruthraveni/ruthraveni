@@ -84,12 +84,11 @@ React + Tailwind CSS + Framer Motion
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ruthraveni&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthraveni&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruthraveni&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthraveni&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthraveni&layout=compact&theme=tokyonight)
 
 ---
 
