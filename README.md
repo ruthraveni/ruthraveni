@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthraveni M</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AWS Certified Cloud Practitioner</h3>
+<h3 align="center">Computer Science and Engineering Student | Full Stack Developer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;AI+%26+ML+Enthusiast;Problem+Solver&center=true&width=500&height=50">
