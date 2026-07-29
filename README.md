@@ -28,7 +28,6 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
 
 ### Frontend
